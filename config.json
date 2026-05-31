@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordelete",
+        "uuid": 15392224,
+        "checksum": "1c2s"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
